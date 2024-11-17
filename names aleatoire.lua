@@ -1,11 +1,16 @@
 local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 local names = {
-    "tu es faible contre moi",
-    "imagine pas êtreplusfort",
-    "je te mange si tu m'énerve",
-    "ne reste pas a côté de moi",
-    "est tu au courant de ma force?"
+    "XD",
+    "-_-",
+    "@_@",
+    "0-0",
+    ":>",
+    "`~`",
+    "^^",
+    "(//_//)",
+    "Script fais par Asuna_0nO",
+    "UwU"
     -- Ajoute autant de noms que tu veux ici
 }
 
