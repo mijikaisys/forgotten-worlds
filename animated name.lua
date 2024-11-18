@@ -7,11 +7,11 @@ local names = {
     "   sop",
     "    so",
     "     s",
-    "a     ",
-    "ia    ",
-    "hia   ",
-    "phia  ",
-    "ophia "   
+    "    so",
+    "   sop",
+    "  soph",
+    " sophi",
+    "      ", 
     -- Ajoute autant de noms que tu veux ici
 }
 
