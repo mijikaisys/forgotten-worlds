@@ -7,7 +7,6 @@ local names = {
     "   sop",
     "    so",
     "     s",
-    "      ",
     "a     ",
     "ia    ",
     "hia   ",
@@ -37,5 +36,5 @@ while true do
         index = 1
     end
 
-    wait(0.2) -- Attend 1 seconde avant de changer de nom à nouveau
+    wait(0) -- Attend 1 seconde avant de changer de nom à nouveau
 end
