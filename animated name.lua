@@ -1,11 +1,18 @@
 local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 local names = {
-    "",
-    "",
-    "",
-    "",
-    ""
+    "sophia",
+    " sophi",
+    "  soph",
+    "   sop",
+    "    so",
+    "     s",
+    "      ",
+    "a     ",
+    "ia    ",
+    "hia   ",
+    "phia  ",
+    "ophia "   
     -- Ajoute autant de noms que tu veux ici
 }
 
@@ -30,5 +37,5 @@ while true do
         index = 1
     end
 
-    wait(1) -- Attend 1 seconde avant de changer de nom à nouveau
+    wait(0.4) -- Attend 1 seconde avant de changer de nom à nouveau
 end
