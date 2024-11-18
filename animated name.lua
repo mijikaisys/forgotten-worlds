@@ -2,14 +2,23 @@ local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 local names = {
     "sophia",
+    "      ",
     " sophi",
+    "      ",
     "  soph",
+    "      ",
     "   sop",
+    "      ",
     "    so",
+    "      ",
     "     s",
+    "      ",
     "    so",
+    "      ",
     "   sop",
+    "      ",
     "  soph",
+    "      ",
     " sophi",
     "      ", 
     -- Ajoute autant de noms que tu veux ici
