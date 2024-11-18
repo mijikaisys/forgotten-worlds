@@ -45,5 +45,5 @@ while true do
         index = 1
     end
 
-    wait(1) -- Attend 1 seconde avant de changer de nom à nouveau
+    wait(0.3) -- Attend 1 seconde avant de changer de nom à nouveau
 end
