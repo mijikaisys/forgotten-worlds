@@ -1,7 +1,7 @@
 local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 local character = player.Character or player.CharacterAdded:Wait()
-local nameChangeDistance = 5 -- Distance à laquelle le nom change
+local nameChangeDistance = 3 -- Distance à laquelle le nom change
 
 -- Fonction pour changer le nom
 local function changeName(newName)
@@ -38,7 +38,7 @@ while true do
         changeName("Proche de " .. table.concat(nearbyPlayers, ", "))
     else
         -- Retourne à un nom par défaut si rien n'est proche
-        changeName("moumousse/mignonne/aime pas le contact physique")
+        changeName("☆moumousse☆/♧mignonne♧/aime°pas°le°contact°physique")
     end
 
     wait(0.9) -- Vérifie toutes les secondes
